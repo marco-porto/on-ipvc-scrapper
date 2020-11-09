@@ -1,0 +1,16 @@
+{
+  "name": "on-ipvc",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "author": "André Sousa <andrematosdesousa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-prettier": "^6.15.0",
+    "prettier": "^2.1.2"
+  }
+}
