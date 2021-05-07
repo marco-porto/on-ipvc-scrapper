@@ -26,7 +26,7 @@ declare class User {
 	getScheduleByDate(scheduleYear, semester, klass, year, month, day): Promise<Schedule>
 }
 
-export function login(): User
+export function login(username: string, password: string): User
 
 export function getSchedule(login, year, semester, klass, week): Promise<Schedule>
 export function getScheduleByDate(login, year, semester, klass, week): Promise<Schedule>
