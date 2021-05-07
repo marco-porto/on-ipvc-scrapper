@@ -1,6 +1,6 @@
 {
   "name": "on-ipvc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "types": "types.d.ts",
   "main": "./lib/index.js",
   "author": "André Sousa <andrematosdesousa@gmail.com>",
